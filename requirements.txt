@@ -1,0 +1,11 @@
+gdown==5.2.0
+Flask==3.1.0
+keras==2.15.0
+lime==0.2.0.1
+matplotlib==3.10.0
+pillow==11.1.0
+scikit_learn==1.6.1
+shap==0.46.0
+tensorflow==2.15.0
+tqdm==4.67.1
+Werkzeug==3.1.3
