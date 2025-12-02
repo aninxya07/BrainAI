@@ -1,4 +1,4 @@
-# brainAI - Brain Tumor Analysis and Prediction
+# BrainAI - Brain Tumor Analysis and Prediction
 
 **brainAI** is an advanced web application developed to analyze, classify, and predict brain tumors. By leveraging cutting-edge technologies like data augmentation with Generative Adversarial Networks (GANs), ResNet for tumor type classification, and time series analysis for tumor growth predictions, BrainAI helps in early tumor detection and personalized treatment planning.
 
